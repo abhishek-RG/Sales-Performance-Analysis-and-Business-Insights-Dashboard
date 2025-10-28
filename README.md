@@ -37,4 +37,4 @@ It serves as a real-world example of leveraging data analytics for strategic pla
 ## 🧑‍💻 Author
 **Abhishek Girgire**  
 Role: Data & Business Analytics Enthusiast  
-[LinkedIn](#) | [GitHub](https://github.com/abhishek-RG)
+[LinkedIn](https://www.linkedin.com/in/abhishek-r-girgire-370761280/) | [GitHub](https://github.com/abhishek-RG)
